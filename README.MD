@@ -2,3 +2,6 @@
 
 ### Install Packages
 > #### npm install
+
+### Create MySQL Database name 
+> #### chatql
